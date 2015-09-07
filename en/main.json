@@ -22,7 +22,7 @@
     }
   },
   "footer": {
-    "copyright": "© 2013-2015 Minora Network. All Rights Reserved.",
+    "copyright": "&copy; 2013-2015 Minora Network. All Rights Reserved.",
     "credits": "Design &amp; development by __coresystem__ and __yariplus__",
     "imprint": "Imprint",
     "privacy": "Privacy",
@@ -40,9 +40,9 @@
     "helper": "Helper",
     "architect": "Architekt",
     "youtuber": "YouTuber",
-    "mvp+": "MVP+",
+    "mvp+": "MVP&#43;",
     "mvp": "MVP",
-    "vip+": "VIP+",
+    "vip+": "VIP&#43;",
     "vip": "VIP",
     "user": "User"
   },
@@ -118,15 +118,15 @@
       "slider": {
         "administrator": {
           "lenovouser": {
-            "name": "lenovouser | Silas",
+            "name": "lenovouser &#124; Silas",
             "description": "Mein Name ist Silas, und ich wurde in Baden-W&uuml;rttemberg geboren. Habe 3 Jahre in Portugal &amp; 2 Jahre in den USA gelebt. Ich interessiere mich sehr f&uuml;r Design."
           },
           "housejumper": {
-            "name": "housejumper | Bjarne",
-            "description": "Ich bin Bjarne und 15 Jahre alt. Seit einiger Zeit besch&auml;ftige ich mich intensiv mit Minecraft Servern und Bukkit/Spigot Plugins. Momentan Lerne ich HTML5, CSS3 und JavaScript."
+            "name": "housejumper &#124; Bjarne",
+            "description": "Ich bin Bjarne und 15 Jahre alt. Seit einiger Zeit besch&auml;ftige ich mich intensiv mit Minecraft Servern und Bukkit&frasl;Spigot Plugins. Momentan Lerne ich HTML5, CSS3 und JavaScript."
           },
           "mrrumpunsh": {
-            "name": "mrrumpunsh | Max",
+            "name": "mrrumpunsh &#124; Max",
             "description": ""
           }
         }
