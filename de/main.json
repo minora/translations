@@ -84,7 +84,7 @@
         },
         "international": {
           "header": "International",
-          "content": "Wir versuchen den Server f&uuml;r jede Person im Internet zug&auml;nglich zu machen, nat&uuml;rlich klappt das nicht sofort. Aber wir werden in ein paar Wochen eine &Uuml;bersetzungsfunktion f&uuml;r die Community bereitstellen die das ganze noch einfacher macht."
+          "content": "Wir versuchen den Server f&uuml;r jede Person im Internet zug&auml;nglich zu machen. Unser gesamtes Web-System ist internationalisiert. In der Zukunft wird auch das Minecraft-System folgen."
         },
         "cloudsystem": {
           "header": "Cloudsystem",
