@@ -49,81 +49,81 @@
   "section": {
     "slider": {
       "one": {
-        "welcome": "Willkommen auf",
-        "about": "&Uuml;ber uns"
+        "welcome": "Welcome to",
+        "about": "About us"
       },
       "two": {
-        "description": "Wir sind ein kleines Team das seit mehreren Monaten an einem Minigames, Arcade, Clan und CityBuild Server f&uuml;r die Minecraft Community arbeitet.",
-        "games": "Spielmodi",
+        "description": "We're a small team that is working since several months on a minigame, arcade, faction and citybuild server for the minecraft community.",
+        "games": "Games",
         "team": "Team"
       }
     },
-    "online": "Trete jetzt __playercount__ Spielern bei __link__",
+    "online": "Join __playercount__ online players now! __link__",
     "about": {
       "header": {
-        "headline": "&Uuml;ber uns",
-        "caption": "Minora ist ein sehr vielseitiger Server. Hier siehst du die Dinge auf die das Serverteam Wert legt."
+        "headline": "About us",
+        "caption": "Minora is a very versatile server. Here you see the main features our team values."
       },
       "features": {
         "speed": {
           "header": "Highspeed",
-          "content": "Wir benutzen nur High-End Server und legen sehr viel Wert auf Qualit&auml;t statt auf Quantit&auml;t. Unsere Server w&auml;hlen wir sehr sorgf&auml;ltig aus. Im Moment werden unsere Server von OVH, RockServer und Hetzner gehostet."
+          "content": "Our system is based a 100&#37; on high-end servers, due to us placing great emphasis on quality rather than quantity. We select our servers very carefully. At the moment our servers are hosted by OVH and Hetzner."
         },
         "support": {
           "header": "Support",
-          "content": "Wir bieten Support zu fast jeder Zeit. Wenn Du Hilfe brauchst, melde dich einfach. Wir wollen Dich zu 100% gl&uuml;cklich auf unserem Server sehen.",
+          "content": "We offer support at almost any time. If you need help, just tell us. We want you to be a 100&#37; happy with our server.",
           "teamspeak": "TeamSpeak"
         },
         "design": {
           "header": "Design",
-          "content": "Details sind uns sehr wichtig. Sei es von exzellenten Karten &uuml;ber das Chatlayout bis hin zu dieser Website - Das Team legt sehr viel Arbeit und Geduld in gute Programmierung, gute Maps und gutes Design."
+          "content": "Details are very important to us. Excellent maps, the chat layout, this site - the team puts a lot of work and patience in good programming, good maps and good design."
         },
         "environment": {
-          "header": "Umweltfreundlich",
-          "content": "Wir legen wirklich Wert auf Stromsparende Server, haben ein automatisches System entwickelt welches unben&ouml;tigte Rootserver automatisch in den Standbymodus versetzt &amp; programmieren sehr ressourcenschonend."
+          "header": "Environmentally friendly",
+          "content": "We attach great importance to power saving servers, and have developed an automatic system which automatically puts servers into standby mode if they are not used. We also program very resource-friendly."
         },
         "international": {
           "header": "International",
-          "content": "Wir versuchen den Server f&uuml;r jede Person im Internet zug&auml;nglich zu machen, nat&uuml;rlich klappt das nicht sofort. Aber wir werden in ein paar Wochen eine &Uuml;bersetzungsfunktion f&uuml;r die Community bereitstellen die das ganze noch einfacher macht."
+          "content": "We try to make the server accessible for every person on the Internet. Our entire Websystem is internationalized. The Minecraft system will follow in the future."
         },
         "cloudsystem": {
           "header": "Cloudsystem",
-          "content": "Das gesamte Minecraft Serversystem basieren auf einem automatisch skalierenden Cloudsystem welches immer genau die Spiele bereitstellt, welche gerade ben&ouml;tigt werden. Das erste echte, dynamisch skalierendes Cloudsystem. Ein Spigot Server kann eine Instanz eines Spieles oder einer Lobby in unter 450 Millisekunden bereitstellen!"
+          "content": "The entire Minecraft server system is based on an automatically scaling cloud system which exactly provides the games which are needed at the moment. The first real, dynamic scaling cloud system. A Spigot Server can provide an instance of a game or a lobby in under 450 milliseconds!"
         },
         "statistics": {
-          "header": "Statistiken",
-          "content": "Unsere Programmierer haben ein exzellentes Statistikensystem entwickelt welches sehr leistungsstark und detailliert, aber dennoch sehr effizient und ressourcenschonend ist. Eine erste Beta kannst du hier aufrufen:"
+          "header": "Statistics",
+          "content": "Our programmers have developed an excellent statistics system which is very powerful and detailed, but yet very efficient and resource-saving."
         },
         "bugsystem": {
           "header": "Bugsystem",
-          "content": "Wir haben ein Fehler-Meldesystem entwickelt was, wenn ein Bug gemeldet wird, automatisch auf eine Datenbank zugreift die den Log des Spiels in dem die Person zu diesem Zeitpunkt war aufruft. Sollten Fehler in dem Log vorhanden sein wird ein Bericht abgeschickt &amp; wir beheben ihn. Eine erste Beta kannst du hier aufrufen:"
+          "content": "We have developed an error-detection system which automatically accesses the game database containing the log of the game in which the person was at the time he reported a bug. If there are errors in the log, a report will be sent & we will fix it."
         },
         "funding": {
-          "header": "Finanzierung",
-          "content": "Uns haben &#39;geldgierige&#39; Server schon immer gest&ouml;rt - Und jetzt wollen wir es besser machen. Die Frage ist: Wie finanziert man diesen Server ohne genau so zu sein? Es stellt sich heraus dass das ohne Spenden nicht geht, und wir sogar auf diese angewiesen sind. Aus diesem Grund haben wir ein Premium-System eingef&uuml;hrt welches keine unfairen Vorteile gegen&uuml;ber Mitspielern einf&uuml;hrt."
+          "header": "Funding",
+          "content": "&#39;Greedy&#39; servers have always annoyed us - and now we want to make it better. The question is: How do you finance a server without being exactly the same? It turns out that that is not possible without donations, and we even depend on them. Due to this we introduced a premium system which provides no unfair advantages over other players."
         }
       }
     },
     "social": {
-      "players": "Spieler",
+      "players": "Players",
       "facebook": "Facebook Likes",
       "twitter": "Twitter Follower",
       "youtube": "YouTuber"
     },
     "team": {
       "header": {
-        "headline": "Das Team",
-        "caption": "Ein Server ist nur so stark wie das Team dahinter. Lerne unser Team kennen, und finde heraus, warum wir so leidenschaftlich tun, was wir tun."
+        "headline": "The Team",
+        "caption": "A server is only as strong as the team behind it. Meet our team to find out why we are so passionate about what we do."
       },
       "slider": {
         "administrator": {
           "lenovouser": {
             "name": "lenovouser &#124; Silas",
-            "description": "Mein Name ist Silas, und ich wurde in Baden-W&uuml;rttemberg geboren. Habe 3 Jahre in Portugal &amp; 2 Jahre in den USA gelebt. Ich interessiere mich sehr f&uuml;r Design."
+            "description": "My name is Silas, and I was born in Baden-W&uuml;rttemberg, Germany. I have lived in Portugal for 3 years, and 2 years in the US. I am very interested in design."
           },
           "housejumper": {
             "name": "housejumper &#124; Bjarne",
-            "description": "Ich bin Bjarne und 15 Jahre alt. Seit einiger Zeit besch&auml;ftige ich mich intensiv mit Minecraft Servern und Bukkit&frasl;Spigot Plugins. Momentan Lerne ich HTML5, CSS3 und JavaScript."
+            "description": "I am Bjarne and 15 years old. For quite some time I have been intensely in touch with Minecraft servers and Bukkit&frasl;Spigot plugins. Currently I am learning HTML5, CSS3 and JavaScript."
           },
           "mrrumpunsh": {
             "name": "mrrumpunsh &#124; Max",
@@ -133,18 +133,18 @@
       }
     },
     "advertisement": {
-      "content": "Pets! Premium-Serverzugang! Vieles mehr!<br>Unterst&uuml;tze jetzt __minora.bold__ und erhalte Extrafeatures als Dank!",
-      "donate": "Spenden"
+      "content": "Pets! Premium server access! Much more!<br>Support __minora.bold__ and get extra features as reward!",
+      "donate": "Donate"
     },
     "testimonials": {
-      "header": "Referenzen",
+      "header": "Testimonials",
       "carousel": {
         "kevkosxd": {
-          "content": "Ich halte von dem __minora.bold__ Server sehr viel. Er besitzt viele Spielmodi wie z.B. SkyBlock oder Survival-Games. Falls man mal etwas bauen m&ouml;chte, kann man direkt auf der Citybuild Welt anfangen. Das __minora.bold__ Team ist sehr freundlich und hilft bei jedem Problem.",
+          "content": "I like the __minora.bold__ server a lot. It has many game modes such as SkyBlock or BloodBath. If you want to build something, you can start directly at the CityBuild world. The __minora.bold__  team is very friendly and will help with any problem.",
           "name": "kevkosxD"
         },
         "anauj": {
-          "content": "Ich war mir gleich am ersten Tag, als ich __minora.bold__ das erste mal besucht habe, sicher das ich hier bleiben w&uuml;rde. Das Team war von Anfang an sehr nett zu mir. Mir gef&auml;llt das Konzept und ich kann den Server jedem weiter empfehlen.",
+          "content": "I was sure that I would stay here when I visited __minora.bold__ the first time. The team was very nice to me from the start on. I like the concept and I recommend the server to anyone.",
           "name": "Anauj"
         }
       }
