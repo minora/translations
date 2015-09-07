@@ -92,11 +92,11 @@
         },
         "statistics": {
           "header": "Statistiken",
-          "content": "Unsere Programmierer haben ein exzellentes Statistikensystem entwickelt welches sehr leistungsstark und detailliert, aber dennoch sehr effizient und ressourcenschonend ist. Eine erste Beta kannst du hier aufrufen:"
+          "content": "Unsere Programmierer haben ein exzellentes Statistikensystem entwickelt welches sehr leistungsstark und detailliert, aber dennoch sehr effizient und ressourcenschonend ist."
         },
         "bugsystem": {
           "header": "Bugsystem",
-          "content": "Wir haben ein Fehler-Meldesystem entwickelt was, wenn ein Bug gemeldet wird, automatisch auf eine Datenbank zugreift die den Log des Spiels in dem die Person zu diesem Zeitpunkt war aufruft. Sollten Fehler in dem Log vorhanden sein wird ein Bericht abgeschickt &amp; wir beheben ihn. Eine erste Beta kannst du hier aufrufen:"
+          "content": "Wir haben ein Fehler-Meldesystem entwickelt was, wenn ein Bug gemeldet wird, automatisch auf eine Datenbank zugreift die den Log des Spiels in dem die Person zu diesem Zeitpunkt war aufruft. Sollten Fehler in dem Log vorhanden sein wird ein Bericht abgeschickt &amp; wir beheben ihn."
         },
         "funding": {
           "header": "Finanzierung",
