@@ -58,7 +58,7 @@
         "team": "Team"
       }
     },
-    "online": "Join __playercount__ online players now! __link__",
+    "online": "Join <strong><span class='playercount'>__onlinePlayers__</span></strong> online players now! __link__",
     "about": {
       "header": {
         "headline": "About us",

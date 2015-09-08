@@ -58,7 +58,7 @@
         "team": "Team"
       }
     },
-    "online": "Trete jetzt __playercount__ Spielern bei __link__",
+    "online": "Trete jetzt <strong><span class='playercount'>__onlinePlayers__</span></strong> Spielern bei __link__",
     "about": {
       "header": {
         "headline": "&Uuml;ber uns",
