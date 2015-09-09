@@ -58,7 +58,7 @@
         "team": "Team"
       }
     },
-    "online": "Trete jetzt __playercount__ Spielern bei __link__",
+    "online": "Trete jetzt __playercount__ Spielern bei<br><strong>hub.minora.io</strong>",
     "about": {
       "header": {
         "headline": "&Uuml;ber uns",
