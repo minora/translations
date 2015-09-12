@@ -9,6 +9,32 @@
         "bold": "MINORA NETWORK",
         "normal": "Minora Network"
       }
+    },
+    "time": {
+      "year": {
+        "key": "Jahr",
+        "key_plural": "Jahre"
+      },
+      "week": {
+        "key": "Woche",
+        "key_plural": "Wochen"
+      },
+      "day": {
+        "key": "Tag",
+        "key_plural": "Tage"
+      },
+      "hour": {
+        "key": "Stunde",
+        "key_plural": "Stunden"
+      },
+      "minute": {
+        "key": "Minute",
+        "key_plural": "Minuten"
+      },
+      "second": {
+        "key": "Sekunde",
+        "key_plural": "Sekunden"
+      }
     }
   },
   "navbar": {
