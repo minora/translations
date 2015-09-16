@@ -84,7 +84,8 @@
         "team": "Team"
       }
     },
-    "online": "Join <strong><span class='playercount'>__onlinePlayers__</span></strong> online players now!<br><strong>hub.minora.io</strong>",
+    "online": "Join <strong><span class='playercount'>__onlinePlayers__</span></strong> online players now!",
+    "noOnlinePlayers": "Join now!",
     "about": {
       "header": {
         "headline": "About us",
