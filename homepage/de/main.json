@@ -85,7 +85,10 @@
       }
     },
     "join": {
-      "online": "Trete jetzt <strong><span class='playercount'>__onlinePlayers__</span></strong> Spielern bei",
+      "online": {
+        "key": "Trete jetzt <strong><span class='playercount'>__onlinePlayers__</span></strong> Spieler bei!",
+        "key_plural": "Trete jetzt <strong><span class='playercount'>__onlinePlayers__</span></strong> Spielern bei!"
+      },
       "offline": "Joine jetzt!"
     },
     "about": {
