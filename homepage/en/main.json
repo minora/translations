@@ -86,7 +86,7 @@
     },
     "join": {
       "online": {
-        "key": "Join <strong><span class='playercount'>__onlinePlayers__</span></strong> online player now!",
+        "key": "Join <strong><span class='playercount'>one</span></strong> online player now!",
         "key_plural": "Join <strong><span class='playercount'>__onlinePlayers__</span></strong> online players now!"
       },
       "offline": "Join now!"
