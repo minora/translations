@@ -61,16 +61,16 @@
   },
   "rank": {
     "owner": "Owner",
-    "administrator": "Administrator",
+    "administrator": "Admin",
     "staff": "Staff",
     "helper": "Helper",
-    "architect": "Architekt",
+    "architect": "Build Team",
     "youtuber": "YouTuber",
     "mvp-plus": "MVP&#43;",
     "mvp": "MVP",
     "vip-plus": "VIP&#43;",
     "vip": "VIP",
-    "user": "User"
+    "user": "Default"
   },
   "section": {
     "slider": {
@@ -158,14 +158,14 @@
             "description": "Ich bin Bjarne und 15 Jahre alt. Seit einiger Zeit besch&auml;ftige ich mich intensiv mit Minecraft Servern und Bukkit&frasl;Spigot Plugins. Momentan Lerne ich HTML5, CSS3 und JavaScript."
           },
           "mrrumpunsh": {
-            "name": "mrrumpunsh &#124; Max",
-            "description": ""
+            "name": "MrRumpunsh &#124; Max",
+            "description": "Mein Name ist Maximilian, ich bin 18 Jahre jung, lebe in Österreich und liebe Java."
           }
         }
       }
     },
     "advertisement": {
-      "content": "Pets! Premium-Serverzugang! Vieles mehr!<br>Unterst&uuml;tze jetzt __minora.bold__ und erhalte Extrafeatures als Dank!",
+      "content": "Pets! VIP-Serverzugang! Vieles mehr!<br>Unterst&uuml;tze jetzt __minora.bold__ und erhalte Extrafeatures als Dank!",
       "donate": "Spenden"
     },
     "testimonials": {
