@@ -99,7 +99,7 @@
       "features": {
         "speed": {
           "header": "High-End",
-          "content": "Wir benutzen nur High-End Server Hardware und legen mehr Wert auf Qualität als auf Quantität. Unsere Server wählen wir sehr sorgfältig aus. Momentan werden diese von OVH, SoYouStart und DigitalOcean gehostet."
+          "content": "Wir benutzen nur High-End Server Hardware und legen mehr Wert auf Qualit&auml;t als auf Quantit&auml;t. Unsere Server w&auml;hlen wir sehr sorgf&auml;ltig aus. Momentan werden diese von OVH, SoYouStart und DigitalOcean gehostet."
         },
         "support": {
           "header": "Support",
@@ -108,31 +108,31 @@
         },
         "design": {
           "header": "Design",
-          "content": "Details sind uns sehr wichtig. Sei es von exzellenten Karten über das Chatlayout bis hin zu dieser Website - Das Team legt sehr viel Arbeit und Geduld in gute Programmierung, gute Maps und gutes Design."
+          "content": "Details sind uns sehr wichtig. Sei es von exzellenten Karten &uuml;ber das Chatlayout bis hin zu dieser Website - Das Team legt sehr viel Arbeit und Geduld in gute Programmierung, gute Maps und gutes Design."
         },
         "environment": {
           "header": "Umweltfreundlich",
-          "content": "Wir legen sowohl auf stromsparende Server als auch auf ressourcenschonende Programmierung wert. Zudem verfügen wir momentan über ein automatisches System, welches nicht benötigte Server automatisch in eine Art “Standbymodus” versetzt."
+          "content": "Wir legen sowohl auf stromsparende Server als auch auf ressourcenschonende Programmierung wert. Zudem verf&uuml;gen wir momentan &uuml;ber ein automatisches System, welches nicht ben&ouml;tigte Server automatisch in eine Art &#39;Standbymodus&#39; versetzt."
         },
         "international": {
           "header": "International",
-          "content": "Unsere Server sind auf strategisch guten Standorten in der gesamten Welt verteilt, damit wir jeder Person einen niedrigen Ping bieten können. Unser gesamtes Web-System ist internationalisiert (Multi-Language System). In der Zukunft wird auch das Minecraft-Netzwerk auf solch ein System umgeschrieben werden."
+          "content": "Unsere Server sind auf strategisch guten Standorten in der gesamten Welt verteilt, damit wir jeder Person einen niedrigen Ping bieten k&ouml;nnen. Unser gesamtes Web-System ist internationalisiert (Multi-Language System). In der Zukunft wird auch das Minecraft-Netzwerk auf solch ein System umgeschrieben werden."
         },
         "cloudsystem": {
           "header": "Cloudsystem",
-          "content": "Das gesamte Minecraft Serversystem basiert auf einem automatisch skalierenden Cloudsystem, welches immer genau die Spiele bereitstellt, die gerade benötigt werden. Eine Server Instanz kann in ca. 200 Millisekunden (0,2 Sekunden) ein Gameserver mit dem gesuchten Spiel bereitstellen! Dies ermöglicht einen reibungslosen Ablauf und bietet dem Endbenutzer kaum vorhandene Wartezeiten!"
+          "content": "Das gesamte Minecraft Serversystem basiert auf einem automatisch skalierenden Cloudsystem, welches immer genau die Spiele bereitstellt, die gerade ben&ouml;tigt werden. Eine Server Instanz kann in ca. 200 Millisekunden (0,2 Sekunden) ein Gameserver mit dem gesuchten Spiel bereitstellen! Dies erm&ouml;glicht einen reibungslosen Ablauf und bietet dem Endbenutzer kaum vorhandene Wartezeiten!"
         },
         "statistics": {
           "header": "Statistiken",
-          "content": "Unsere Programmierer haben ein exzellentes Statistiksystem entwickelt, welches sehr leistungsstark und detailliert, aber dennoch sehr effizient und ressourcenschonend ist. Dieses System ermöglicht dem Spieler seine Statistiken auf vorgefertigten Seiten bequem abzurufen."
+          "content": "Unsere Programmierer haben ein exzellentes Statistiksystem entwickelt, welches sehr leistungsstark und detailliert, aber dennoch sehr effizient und ressourcenschonend ist. Dieses System erm&ouml;glicht dem Spieler seine Statistiken auf vorgefertigten Seiten bequem abzurufen."
         },
         "bugsystem": {
           "header": "Bugsystem",
-          "content": "Wir haben ein Fehler-Meldesystem entwickelt, welches, wenn ein Bug gemeldet wird, automatisch auf eine Datenbank zugreift die den Log des Spiels in dem die Person zu diesem Zeitpunkt war aufruft. Sollten Fehler in dem Log vorhanden sein wird ein Bericht abgeschickt, mit dem wir den Fehler beheben können."
+          "content": "Wir haben ein Fehler-Meldesystem entwickelt, welches, wenn ein Bug gemeldet wird, automatisch auf eine Datenbank zugreift die den Log des Spiels in dem die Person zu diesem Zeitpunkt war aufruft. Sollten Fehler in dem Log vorhanden sein wird ein Bericht abgeschickt, mit dem wir den Fehler beheben k&ouml;nnen."
         },
         "funding": {
           "header": "Finanzierung",
-          "content": "Uns haben 'geldgierige' Server schon immer gestört - Doch jetzt wollen wir es besser machen! Die Frage ist: Wie finanziert man diesen Server ohne genau so zu sein? Es stellt sich heraus, dass das ohne Spenden nicht geht, und wir sogar auf diese angewiesen sind. Aus diesem Grund haben wir ein VIP-System eingeführt welches keine unfairen Vorteile gegenüber Mitspielern einführt."
+          "content": "Uns haben &#39;geldgierige&#39; Server schon immer gest&ouml;rt - Doch jetzt wollen wir es besser machen! Die Frage ist: Wie finanziert man diesen Server ohne genau so zu sein? Es stellt sich heraus, dass das ohne Spenden nicht geht, und wir sogar auf diese angewiesen sind. Aus diesem Grund haben wir ein VIP-System eingef&uuml;hrt welches keine unfairen Vorteile gegen&uuml;ber Mitspielern einf&uuml;hrt."
         }
       }
     },
@@ -159,7 +159,7 @@
           },
           "mrrumpunsh": {
             "name": "MrRumpunsh &#124; Max",
-            "description": "Mein Name ist Maximilian, ich bin 18 Jahre jung, lebe in Österreich und liebe Java."
+            "description": "Mein Name ist Maximilian, ich bin 18 Jahre jung, lebe in &Ouml;sterreich und liebe Java."
           }
         }
       }
