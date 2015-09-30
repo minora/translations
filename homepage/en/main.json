@@ -98,8 +98,8 @@
       },
       "features": {
         "speed": {
-          "header": "Highspeed",
-          "content": "Our system is based a 100&#37; on high-end servers, due to us placing great emphasis on quality rather than quantity. We select our servers very carefully. At the moment our servers are hosted by OVH and Hetzner."
+          "header": "High-End",
+          "content": "Our system is based only on high-end servers, due to us placing great emphasis on quality, rather than quantity. We select our servers very carefully. At the moment our servers are hosted by OVH, SoYouStart and DigitalOcean."
         },
         "support": {
           "header": "Support",
@@ -120,7 +120,7 @@
         },
         "cloudsystem": {
           "header": "Cloudsystem",
-          "content": "The entire Minecraft server system is based on an automatically scaling cloud system which exactly provides the games which are needed at the moment. The first real, dynamic scaling cloud system. A Spigot Server can provide an instance of a game or a lobby in under 450 milliseconds!"
+          "content": "The entire Minecraft server system is based on an automatically scaling cloud system which exactly provides the games which are needed at the moment. The first real, dynamic scaling cloud system. A Spigot instance can provide a game or a lobby in under 200 milliseconds (0,2 seconds)! This provides nearly no waiting-times for our players!"
         },
         "statistics": {
           "header": "Statistics",
