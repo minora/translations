@@ -192,5 +192,66 @@
         }
       }
     }
+  },
+  "legal": {
+    "header": {
+      "headline": "Legak",
+      "lastedit": "Last edit:"
+    },
+    "address": {
+      "name": "Minora Network,",
+      "street": "M&uuml;hlstraße 9,",
+      "city": "DE-61267 Neu-Anspach Westerfeld"
+    },
+    "sections": {
+      "imprint": {
+        "header": "Imprint",
+        "content": {
+          "representatives": {
+            "header": "Represented by:",
+            "lenovouser": {
+              "name": "Silas Rech",
+              "email": "silas.rech@minora.io"
+            },
+            "mrrumpunsh": {
+              "name": "Maximilian Schagginger",
+              "email": "max.schagginger@minora.io"
+            },
+            "housejumper": {
+              "name": "Bjarne Grimberg",
+              "email": "bjarne.grimberg@minora.io"
+            }
+          },
+          "contact": {
+            "header": "Contact:",
+            "phone": {
+              "text": "Phone:",
+              "number": {
+                "short": "+4915256985375",
+                "full": "+49 (0) 152 56985375"
+              }
+            },
+            "email": {
+              "text": "E-Mail:",
+              "address": "contact@minora.io"
+            },
+            "telegram": {
+              "text": "Telegram:",
+              "link": "minoranetwork"
+            },
+            "skype": {
+              "text": "Skype:",
+              "account": "minoranetwork"
+            }
+          }
+        }
+      },
+      "privacy": {
+        "header": "Privacy"
+      },
+      "terms": {
+        "header": "Terms of Service"
+      }
+    }
   }
 }
