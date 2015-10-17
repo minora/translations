@@ -1,0 +1,26 @@
+{
+  "year": {
+    "key": "year",
+    "key_plural": "years"
+  },
+  "week": {
+    "key": "week",
+    "key_plural": "weeks"
+  },
+  "day": {
+    "key": "day",
+    "key_plural": "days"
+  },
+  "hour": {
+    "key": "hour",
+    "key_plural": "hours"
+  },
+  "minute": {
+    "key": "minute",
+    "key_plural": "minutes"
+  },
+  "second": {
+    "key": "second",
+    "key_plural": "seconds"
+  }
+}

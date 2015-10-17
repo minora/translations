@@ -1,0 +1,88 @@
+{
+  "slider": {
+    "one": {
+      "welcome": "Willkommen auf",
+      "about": "&Uuml;ber uns"
+    },
+    "two": {
+      "description": "Wir sind ein kleines Team das seit mehreren Monaten an einem Minigames, Arcade, Clan und CityBuild Server f&uuml;r die Minecraft Community arbeitet.",
+      "games": "Spielmodi",
+      "team": "Team"
+    }
+  },
+  "join": {
+    "online": {
+      "key": "Trete jetzt <strong><span class='playercount'>einem</span></strong> Spieler bei!",
+      "key_plural": "Trete jetzt <strong><span class='playercount'>__onlinePlayers__</span></strong> Spielern bei!"
+    },
+    "offline": "Joine jetzt!"
+  },
+  "about": {
+    "header": {
+      "headline": "&Uuml;ber uns",
+      "caption": "Minora ist ein sehr vielseitiger Server. Hier siehst du die Dinge auf die das Serverteam Wert legt."
+    },
+    "features": {
+      "speed": {
+        "header": "High-End",
+        "content": "Wir benutzen nur High-End Server Hardware und legen mehr Wert auf Qualit&auml;t als auf Quantit&auml;t. Unsere Server w&auml;hlen wir sehr sorgf&auml;ltig aus. Momentan werden diese von OVH, SoYouStart und DigitalOcean gehostet."
+      },
+      "support": {
+        "header": "Support",
+        "content": "Wir bieten Support zu fast jeder Zeit. Wenn Du Hilfe brauchst, melde dich einfach. Wir wollen Dich zu 100&#37; gl&uuml;cklich auf unserem Server sehen.",
+        "teamspeak": "TeamSpeak"
+      },
+      "design": {
+        "header": "Design",
+        "content": "Details sind uns sehr wichtig. Sei es von exzellenten Karten &uuml;ber das Chatlayout bis hin zu dieser Website - Das Team legt sehr viel Arbeit und Geduld in gute Programmierung, sch&ouml;ne Maps und exzellentes Design."
+      },
+      "environment": {
+        "header": "Umweltfreundlich",
+        "content": "Wir legen sowohl auf stromsparende Server als auch auf ressourcenschonende Programmierung wert. Zudem verf&uuml;gen wir momentan &uuml;ber ein automatisches System, welches nicht ben&ouml;tigte Server automatisch in eine Art &#39;Standbymodus&#39; versetzt."
+      },
+      "international": {
+        "header": "International",
+        "content": "Unsere Server sind auf strategisch guten Standorten in der gesamten Welt verteilt, damit wir jeder Person einen niedrigen Ping bieten k&ouml;nnen. Unser gesamtes Web-System ist internationalisiert (Multi-Language System). In der Zukunft wird auch das Minecraft-Netzwerk auf solch ein System umgeschrieben werden."
+      },
+      "cloudsystem": {
+        "header": "Cloudsystem",
+        "content": "Das gesamte Minecraft Serversystem basiert auf einem automatisch skalierenden Cloudsystem, welches immer genau die Spiele bereitstellt, die gerade ben&ouml;tigt werden. Eine Server Instanz kann in ca. 200 Millisekunden (0,2 Sekunden) ein Gameserver mit dem gesuchten Spiel bereitstellen! Dies erm&ouml;glicht einen reibungslosen Ablauf und bietet dem Endbenutzer kaum vorhandene Wartezeiten!"
+      },
+      "statistics": {
+        "header": "Statistiken",
+        "content": "Unsere Programmierer haben ein exzellentes Statistiksystem entwickelt, welches sehr leistungsstark und detailliert, aber dennoch sehr effizient und ressourcenschonend ist. Dieses System erm&ouml;glicht dem Spieler seine Statistiken auf vorgefertigten Seiten bequem abzurufen."
+      },
+      "bugsystem": {
+        "header": "Bugsystem",
+        "content": "Wir haben ein Fehler-Meldesystem entwickelt, welches, wenn ein Bug gemeldet wird, automatisch auf eine Datenbank zugreift die den Log des Spiels in dem die Person zu diesem Zeitpunkt war aufruft. Sollten Fehler in dem Log vorhanden sein wird ein Bericht abgeschickt, mit dem wir den Fehler beheben k&ouml;nnen."
+      },
+      "funding": {
+        "header": "Finanzierung",
+        "content": "Uns haben &#39;geldgierige&#39; Server schon immer gest&ouml;rt - Doch jetzt wollen wir es besser machen! Die Frage ist: Wie finanziert man diesen Server ohne genau so zu sein? Es stellt sich heraus, dass das ohne Spenden nicht geht, und wir sogar auf diese angewiesen sind. Aus diesem Grund haben wir ein VIP-System eingef&uuml;hrt welches keine unfairen Vorteile gegen&uuml;ber Mitspielern einf&uuml;hrt."
+      }
+    }
+  },
+  "social": {
+    "players": "Spieler",
+    "facebook": "Facebook Likes",
+    "twitter": "Twitter Follower",
+    "youtube": "YouTuber"
+  },
+  "advertisement": {
+    "content": "Pets! VIP-Serverzugang! Vieles mehr!<br>Unterst&uuml;tze jetzt __minora.bold__ und erhalte Extrafeatures als Dank!",
+    "donate": "Spenden"
+  },
+  "testimonials": {
+    "header": "Referenzen",
+    "carousel": {
+      "kevkosxd": {
+        "content": "Ich halte von dem __minora.bold__ Server sehr viel. Er besitzt viele Spielmodi wie z.B. SkyBlock oder BloodBath. Falls man mal etwas bauen m&ouml;chte, kann man direkt auf der CityBuild Welt anfangen. Das __minora.bold__ Team ist sehr freundlich und hilft bei jedem Problem.",
+        "name": "kevkosxD"
+      },
+      "anauj": {
+        "content": "Ich war mir gleich am ersten Tag, als ich __minora.bold__ das erste mal besucht habe, sicher das ich hier bleiben w&uuml;rde. Das Team war von Anfang an sehr nett zu mir. Mir gef&auml;llt das Konzept und ich kann den Server jedem weiter empfehlen.",
+        "name": "Anauj"
+      }
+    }
+  }
+}

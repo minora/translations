@@ -1,0 +1,88 @@
+{
+  "slider": {
+    "one": {
+      "welcome": "Welcome to",
+      "about": "About us"
+    },
+    "two": {
+      "description": "We're a small team that is working since several months on a minigame, arcade, faction and citybuild server for the minecraft community.",
+      "games": "Games",
+      "team": "Team"
+    }
+  },
+  "join": {
+    "online": {
+      "key": "Join <strong><span class='playercount'>one</span></strong> online player now!",
+      "key_plural": "Join <strong><span class='playercount'>__onlinePlayers__</span></strong> online players now!"
+    },
+    "offline": "Join now!"
+  },
+  "about": {
+    "header": {
+      "headline": "About us",
+      "caption": "Minora is a very versatile server. Here you see the main features our team values."
+    },
+    "features": {
+      "speed": {
+        "header": "High-End",
+        "content": "Our system is based only on high-end servers, due to us placing great emphasis on quality, rather than quantity. We select our servers very carefully. At the moment our servers are hosted by OVH, SoYouStart and DigitalOcean."
+      },
+      "support": {
+        "header": "Support",
+        "content": "We offer support at almost any time. If you need help, just tell us. We want you to be a 100&#37; happy with our server.",
+        "teamspeak": "TeamSpeak"
+      },
+      "design": {
+        "header": "Design",
+        "content": "Details are very important to us. Excellent maps, the chat layout, this site - the team puts a lot of work and patience in good programming, beautiful maps and excellent design."
+      },
+      "environment": {
+        "header": "Environmentally friendly",
+        "content": "We attach great importance to power saving servers, and have developed an automatic system which automatically puts servers into standby mode if they are not used. We also program very resource-friendly."
+      },
+      "international": {
+        "header": "International",
+        "content": "We try to make the server accessible for every person on the Internet. Our entire Websystem is internationalized. The Minecraft system will follow in the future."
+      },
+      "cloudsystem": {
+        "header": "Cloudsystem",
+        "content": "The entire Minecraft server system is based on an automatically scaling cloud system which exactly provides the games which are needed at the moment. The first real, dynamic scaling cloud system. A Spigot instance can provide a game or a lobby in under 200 milliseconds (0,2 seconds)! This provides nearly no waiting-times for our players!"
+      },
+      "statistics": {
+        "header": "Statistics",
+        "content": "Our programmers have developed an excellent statistics system which is very powerful and detailed, but yet very efficient and resource-saving."
+      },
+      "bugsystem": {
+        "header": "Bugsystem",
+        "content": "We have developed an error-detection system which automatically accesses the game database containing the log of the game in which the person was at the time he reported a bug. If there are errors in the log, a report will be sent & we will fix it."
+      },
+      "funding": {
+        "header": "Funding",
+        "content": "&#39;Greedy&#39; servers have always annoyed us - and now we want to make it better. The question is: How do you finance a server without being exactly the same? It turns out that that is not possible without donations, and we even depend on them. Due to this we introduced a premium system which provides no unfair advantages over other players."
+      }
+    }
+  },
+  "social": {
+    "players": "Players",
+    "facebook": "Facebook Likes",
+    "twitter": "Twitter Follower",
+    "youtube": "YouTubers"
+  },
+  "advertisement": {
+    "content": "Pets! VIP server access! Much more!<br>Support __minora.bold__ and get extra features as reward!",
+    "donate": "Donate"
+  },
+  "testimonials": {
+    "header": "Testimonials",
+    "carousel": {
+      "kevkosxd": {
+        "content": "I like the __minora.bold__ server a lot. It has many game modes such as SkyBlock or BloodBath. If you want to build something, you can start directly at the CityBuild world. The __minora.bold__  team is very friendly and will help with any problem.",
+        "name": "kevkosxD"
+      },
+      "anauj": {
+        "content": "I was sure that I would stay here when I visited __minora.bold__ the first time. The team was very nice to me from the start on. I like the concept and I recommend the server to anyone.",
+        "name": "Anauj"
+      }
+    }
+  }
+}

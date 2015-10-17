@@ -1,0 +1,22 @@
+{
+  "header": {
+    "headline": "The Team",
+    "caption": "A server is only as strong as the team behind it. Meet our team to find out why we are so passionate about what we do."
+  },
+  "slider": {
+    "administrator": {
+      "lenovouser": {
+        "name": "lenovouser &#124; Silas",
+        "description": "My name is Silas, and I was born in Baden-W&uuml;rttemberg, Germany. I have lived in Portugal for 3 years, and 2 years in the US. I am very interested in design."
+      },
+      "housejumper": {
+        "name": "housejumper &#124; Bjarne",
+        "description": "I am Bjarne and 15 years old. For quite some time I have been intensely in touch with Minecraft servers and Bukkit&frasl;Spigot plugins. Currently I am learning HTML5, CSS3 and JavaScript."
+      },
+      "mrrumpunsh": {
+        "name": "MrRumpunsh &#124; Max",
+        "description": "My name is Maximilian, I am 18 years old, live in Austria and I love Java."
+      }
+    }
+  }
+}
