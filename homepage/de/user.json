@@ -1,0 +1,76 @@
+{
+  "profile": {
+    "header": "Profil",
+    "playtime": {
+      "header": "Spielzeit:"
+    },
+    "lastlogin": {
+      "header": "Last login:",
+      "online": "Momentan online!"
+    },
+    "firstlogin": {
+      "header": "Erster login:",
+      "content": "__player.name__ ist Minora vor <abbr class='timeago' title='__player.firstLogin__'></abbr> beigetreten!"
+    },
+    "points": {
+      "header": "Punkte"
+    },
+    "coins": {
+      "header": "Coins"
+    },
+    "credits": {
+      "header": "Credits"
+    }
+  },
+  "friends": {
+    "header": "Freunde",
+    "avatar": "Avatar",
+    "name": "Name"
+  },
+  "activity": {
+    "header": "Aktivität"
+  },
+  "bloodbath": {
+    "header": "BloodBath",
+    "victories": {
+      "header": "Siege:"
+    },
+    "games": {
+      "header": "Gespielte Spiele:"
+    },
+    "points": {
+      "header": "Punkte:"
+    },
+    "kills": {
+      "header": "Kills:"
+    },
+    "chests": {
+      "header": "Ge&oumlffnete Kisten:"
+    },
+    "deaths": {
+      "header": "Tode:"
+    },
+    "defeats": {
+      "header": "Niederlagen:"
+    },
+    "lastgame": {
+      "header": "Letztes Spiel:"
+    },
+    "playtime": {
+      "header": "Spielzeit:",
+      "content": "spielte BloodBath f&uumlr"
+    }
+  },
+  "arcade": {
+    "header": "Arcade"
+  },
+  "bedwars": {
+    "header": "BedWars"
+  },
+  "reallife": {
+    "header": "Reallife"
+  },
+  "skyblock": {
+    "header": "SkyBlock"
+  }
+}
