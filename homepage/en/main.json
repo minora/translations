@@ -8,5 +8,9 @@
       "bold": "MINORA NETWORK",
       "normal": "Minora Network"
     }
+  },
+  "search": "Search",
+  "placeholder": {
+    "name": "Notch"
   }
 }
