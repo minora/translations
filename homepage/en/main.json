@@ -83,7 +83,7 @@
     "community": "Community",
     "games": "Gametypes"
   },
-  "home": {
+  "homepage": {
     "slider": {
       "one": {
         "welcome": "Welcome to",
@@ -171,7 +171,7 @@
       }
     }
   },
-  "team": {
+  "teampage": {
     "header": {
       "headline": "The Team",
       "caption": "A server is only as strong as the team behind it. Meet our team to find out why we are so passionate about what we do."
@@ -193,7 +193,7 @@
       }
     }
   },
-  "legal": {
+  "legalpage": {
     "header": {
       "headline": "Legal",
       "lastedit": "Last edit:"
