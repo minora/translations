@@ -13,7 +13,7 @@
   "join": {
     "online": {
       "key": "지금 <strong><span class='playercount'>한명</span></strong> 과 참가하세요!",
-      "key_plural": "지금 <strong><span class='playercount'>__onlinePlayers__</span></strong> 과 참가하세요!",
+      "key_plural": "지금 <strong><span class='playercount'>__onlinePlayers__</span></strong> 과 참가하세요!"
     },
     "offline": "지금 참가하세요!"
   },
