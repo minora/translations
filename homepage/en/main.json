@@ -72,6 +72,17 @@
     "vip": "VIP",
     "user": "Default"
   },
+  "pages": {
+    "home": "Home",
+    "legal": "Legal",
+    "statistics": "Statistics",
+    "user": "User",
+    "team": "Team",
+    "store": "Store",
+    "about": "About",
+    "community": "Community",
+    "games": "Gametypes"
+  },
   "home": {
     "slider": {
       "one": {

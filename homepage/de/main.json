@@ -72,6 +72,17 @@
     "vip": "VIP",
     "user": "Default"
   },
+  "pages": {
+    "home": "Home",
+    "legal": "Rechtlich",
+    "statistics": "Statistiken",
+    "user": "User",
+    "team": "Team",
+    "store": "Store",
+    "about": "&Uumlber",
+    "community": "Forum",
+    "games": "Spielmodi"
+  },
   "home": {
     "slider": {
       "one": {
