@@ -1,0 +1,58 @@
+{
+  "lastedit": "마지막 편집:",
+  "address": {
+    "name": "미노라 네트워크,",
+    "street": "M&uuml;hlstraße 9,",
+    "city": "DE-61267 Neu-Anspach Westerfeld"
+  },
+  "sections": {
+    "imprint": {
+      "header": "흔적",
+      "content": {
+        "representatives": {
+          "header": "대표자:",
+          "lenovouser": {
+            "name": "Silas Rech",
+            "email": "silas.rech@minora.io"
+          },
+          "mrrumpunsh": {
+            "name": "Maximilian Schagginger",
+            "email": "max.schagginger@minora.io"
+          },
+          "housejumper": {
+            "name": "Bjarne Grimberg",
+            "email": "bjarne.grimberg@minora.io"
+          }
+        },
+        "contact": {
+          "header": "연락처:",
+          "phone": {
+            "text": "핸드폰:",
+            "number": {
+              "short": "+4915256985375",
+              "full": "+49 (0) 152 56985375"
+            }
+          },
+          "email": {
+            "text": "이매일:",
+            "address": "contact@minora.io"
+          },
+          "telegram": {
+            "text": "전보:",
+            "account": "minoranetwork"
+          },
+          "skype": {
+            "text": "스카이프:",
+            "account": "minoranetwork"
+          }
+        }
+      }
+    },
+    "privacy": {
+      "header": "프리버시"
+    },
+    "terms": {
+      "header": "사용 약관"
+    }
+  }
+}

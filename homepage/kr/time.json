@@ -1,0 +1,26 @@
+{
+  "year": {
+    "key": "년",
+    "key_plural": "년"
+  },
+  "week": {
+    "key": "주",
+    "key_plural": "주"
+  },
+  "day": {
+    "key": "일",
+    "key_plural": "일"
+  },
+  "hour": {
+    "key": "시간",
+    "key_plural": "시간"
+  },
+  "minute": {
+    "key": "분",
+    "key_plural": "분"
+  },
+  "second": {
+    "key": "초",
+    "key_plural": "초"
+  }
+}

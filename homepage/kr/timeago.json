@@ -1,0 +1,19 @@
+{
+  "prefixAgo": null,
+  "prefixFromNow": null,
+  "suffixAgo": "전에",
+  "suffixFromNow": "지금부터",
+  "seconds": "1 분 미만",
+  "minute": "약 1 분",
+  "minutes": "%d 분",
+  "hour": "약 1 시간",
+  "hours": "about %d 시간",
+  "day": "하루",
+  "days": "%d 일",
+  "month": "약 한달",
+  "months": "%d 한달",
+  "year": "약 1 년",
+  "years": "%d 년",
+  "wordSeparator": " ",
+  "numbers": []
+}

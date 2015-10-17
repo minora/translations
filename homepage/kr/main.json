@@ -1,0 +1,16 @@
+{
+  "name": {
+    "short": {
+      "bold": "미노라",
+      "normal": "미노라"
+    },
+    "full": {
+      "bold": "미노라 네트워크",
+      "normal": "미노라 네트워크"
+    }
+  },
+  "search": "찾기",
+  "placeholder": {
+    "name": "Notch"
+  }
+}
