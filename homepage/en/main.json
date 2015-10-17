@@ -195,7 +195,7 @@
   },
   "legal": {
     "header": {
-      "headline": "Legak",
+      "headline": "Legal",
       "lastedit": "Last edit:"
     },
     "address": {
@@ -237,7 +237,7 @@
             },
             "telegram": {
               "text": "Telegram:",
-              "link": "minoranetwork"
+              "account": "minoranetwork"
             },
             "skype": {
               "text": "Skype:",

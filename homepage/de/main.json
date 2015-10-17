@@ -237,7 +237,7 @@
             },
             "telegram": {
               "text": "Telegram:",
-              "link": "minoranetwork"
+              "account": "minoranetwork"
             },
             "skype": {
               "text": "Skype:",
