@@ -13,7 +13,7 @@
   "join": {
     "online": {
       "key": "지금 <strong><span class='playercount'>한명</span></strong> 과 참가하세요!",
-      "key_plural": "지금 <strong><span class='playercount'>__onlinePlayers__</span></strong> 과 참가하세요!"
+      "key_plural": "지금 <strong><span class='playercount'>__onlinePlayers__</span></strong> 명 과 참가하세요!"
     },
     "offline": "지금 참가하세요!"
   },
@@ -29,7 +29,7 @@
       },
       "support": {
         "header": "지원",
-        "content": "우리는 거의 모든 시간에 지원을 제공합니다. 도움이 필요하면, 부담없이 도와 드리겠습니다. 미노라는 고객님에 100&#37 만족을 위해서 노력합니다.",
+        "content": "우리는 거의 모든 시간에 지원을 제공합니다. 도움이 필요하면, 부담없이 도와 드리겠습니다. 미노라는 고객님에 100&#37; 만족을 위해서 노력합니다.",
         "teamspeak": "TeamSpeak"
       },
       "design": {
