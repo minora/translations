@@ -1,0 +1,28 @@
+{
+  "header": "Statistics",
+  "search": "Search",
+  "section": {
+    "global": {
+      "header": "Global"
+    },
+    "bloodbath": {
+      "header": "BloodBath"
+    }
+  },
+  "tables": {
+    "avatar": "Avatar",
+    "name": "Name",
+    "playtime": "Playtime",
+    "points": "Points",
+    "coins": "Coins",
+    "credits": "Credits",
+    "online": "Online",
+    "rank": "Rank",
+    "victories": "Victories",
+    "kills": "Kills",
+    "chests": "Chests",
+    "deaths": "Deaths",
+    "defeats": "Defeats",
+    "lastgame": "Last Game"
+  }
+}
