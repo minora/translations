@@ -5,11 +5,11 @@
       "header": "Spielzeit:"
     },
     "lastlogin": {
-      "header": "Last login:",
+      "header": "Letzter Login:",
       "online": "Momentan online!"
     },
     "firstlogin": {
-      "header": "Erster login:",
+      "header": "Erster Login:",
       "content": "__player.name__ ist Minora vor <abbr class='timeago' title='__player.firstLogin__'></abbr> beigetreten!"
     },
     "points": {
