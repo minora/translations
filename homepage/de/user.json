@@ -10,7 +10,7 @@
     },
     "firstlogin": {
       "header": "Erster Login:",
-      "content": "__player.name__ ist Minora vor <abbr class='timeago' title='__player.firstLogin__'></abbr> beigetreten!"
+      "content": "__player.name__ ist Minora <abbr class='timeago' title='__player.firstLogin__'></abbr> beigetreten!"
     },
     "points": {
       "header": "Punkte"
