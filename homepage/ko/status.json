@@ -1,0 +1,20 @@
+{
+  "header": {
+    "headline": "Status",
+    "caption": "Status of the Minora Rootservers and Services."
+  },
+  "servers": {
+    "header": "Servers",
+    "uptime": "Uptime",
+    "load": "Load",
+    "rbx": {
+      "name": "Roubaix"
+    },
+    "sbg": {
+      "name": "Strasbourg"
+    },
+    "lon": {
+      "name": "London"
+    }
+  }
+}
