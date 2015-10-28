@@ -7,7 +7,7 @@
   },
   "sections": {
     "imprint": {
-      "header": "흔적",
+      "header": "판권",
       "content": {
         "representatives": {
           "header": "대표자:",
@@ -34,22 +34,22 @@
             }
           },
           "email": {
-            "text": "이매일:",
+            "text": "이메일:",
             "address": "contact@minora.io"
           },
           "telegram": {
-            "text": "전보:",
+            "text": "Telegram:",
             "account": "minoranetwork"
           },
           "skype": {
-            "text": "스카이프:",
+            "text": "Skype:",
             "account": "minoranetwork"
           }
         }
       }
     },
     "privacy": {
-      "header": "프리버시"
+      "header": "웹 페이지 정보"
     },
     "terms": {
       "header": "사용 약관"
