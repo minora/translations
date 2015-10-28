@@ -1,10 +1,10 @@
 {
   "header": {
-    "headline": "Status",
-    "caption": "Status of the Minora Rootservers and Services."
+    "headline": "서버 상태",
+    "caption": "미노라 게임서버의 상태."
   },
   "servers": {
-    "header": "Servers",
+    "header": "서버",
     "uptime": "Uptime",
     "load": "Load",
     "rbx": {
