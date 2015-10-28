@@ -6,7 +6,7 @@
     },
     "lastlogin": {
       "header": "마지막 로그인:",
-      "online": "현재 온라인!"
+      "online": "현재 접속중!"
     },
     "firstlogin": {
       "header": "첫번째 로그인:",
@@ -24,7 +24,7 @@
   },
   "friends": {
     "header": "친구",
-    "avatar": "아바타",
+    "avatar": "케릭터",
     "name": "이름"
   },
   "activity": {
@@ -36,7 +36,7 @@
       "header": "승리:"
     },
     "games": {
-      "header": "참가한 게임:"
+      "header": "플레이한 게임:"
     },
     "points": {
       "header": "포인트:"
@@ -45,7 +45,7 @@
       "header": "킬:"
     },
     "chests": {
-      "header": "상자 열은 수 "
+      "header": "연 상자 수 "
     },
     "deaths": {
       "header": "죽음:"
@@ -58,17 +58,17 @@
     },
     "playtime": {
       "header": "사용 시간:",
-      "content": "대학살 플래이한 수"
+      "content": "대학살을 플레이한 시간"
     }
   },
   "arcade": {
     "header": "아케이드"
   },
   "bedwars": {
-    "header": "침대 전쟁"
+    "header": "베드워즈"
   },
   "reallife": {
-    "header": "실생활"
+    "header": "서바이벌"
   },
   "skyblock": {
     "header": "스카이 블록"
