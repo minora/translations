@@ -1,21 +1,21 @@
 {
   "header": {
     "headline": "운영진",
-    "caption": "서버는 뒤에서 지원해주는 팀만큼 강합니다. 우리는 우리가하는 일을 왜 이렇게 열정적으로 하는지 보기 위해 우리 팀을 만나보십시오."
+    "caption": "하나의 서버는 보이지 않는 곳에서 지원해주는 운영진 팀이 있기에 존재합니다. 여기 열정적인 우리 운영진들을 만나 보시죠."
   },
   "slider": {
     "administrator": {
       "lenovouser": {
         "name": "lenovouser &#124; Silas",
-        "description": "안녕하세요, 저의 이름은 Silas 입니다. 저는 독일에 바덴 - 뷔 르템 베르크 에서 태어났습니다. 저는 3 년을  포르투갈에서 살았고, 또한 미국에서 2 년 살아왔습니다. 저는 디자인에 매우 관심이 있습니다. "
+        "description": "안녕하세요, 제 이름은 Silas 입니다. 저는 독일의 바덴 비텐베르크 지역에서 태어났습니다. 저는 포르투갈에 3년, 그리고 미국에 2년 거주하다 왔습니다. 저는 디자인에 매우 관심이 있습니다. "
       },
       "housejumper": {
         "name": "housejumper &#124; Bjarne",
-        "description": "안녕하세요, 저의 이름은 Bjarne 입니다. 오랜 시간 동안 저는 마인 크래프트 서버와 버킷 / 스피곳 플러그인과 강렬하게 배웠습니다. 현재로선 재가 HTML5, CSS3 및 JavaScript를 배우고있습니다."
+        "description": "안녕하세요, 저의 이름은 Bjarne 입니다. 저는 오랜 시간 동안 마인크래프트 서버와 버킷/스피곳 플러그인에 관련해서 여러가지를 배웠습니다. 저는 현재 HTML5, CSS3 및 JavaScript를 배우고 있습니다."
       },
       "mrrumpunsh": {
         "name": "MrRumpunsh &#124; Max",
-        "description": "안녕하세요, 저의 이름은 Maximillan 입니다. 현재 오스트리아에서 거주하고 있는 18살 입니다. 저는 Java을 매우 좋아합니다. "
+        "description": "안녕하세요, 저의 이름은 Maximillan 입니다. 현재 18살이며, 오스트리아에서 거주하고 있습니다. 그리고 Java을 매우 좋아하죠. "
       }
     }
   }
