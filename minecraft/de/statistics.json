@@ -1,0 +1,38 @@
+{
+  "playtime": "Spielzeit",
+  "point": {
+    "uppercase": {
+      "singular": "Punkt",
+      "plural": "Punkte",
+      "none": "kein Punkt"
+    }
+  },
+  "coin": {
+    "uppercase": {
+      "singular": "Münze",
+      "plural": "Münzen",
+      "none": "keine Münze"
+    }
+  },
+  "chest": {
+    "uppercase": {
+      "singular": "Kiste",
+      "plural": "Kisten",
+      "none": "keine Kiste"
+    }
+  },
+  "kill": {
+    "uppercase": {
+      "singular": "Kill",
+      "plural": "Kills",
+      "none": "keinen Kill"
+    }
+  },
+  "death": {
+    "uppercase": {
+      "singular": "Tod",
+      "plural": "Tode",
+      "none": "kein Tode"
+    }
+  }
+}

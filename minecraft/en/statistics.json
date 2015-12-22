@@ -1,0 +1,63 @@
+{
+  "playtime": "Playtime",
+  "point": {
+    "uppercase": {
+      "singular": "Point",
+      "plural": "Points",
+      "none": "no Point"
+    },
+    "lowercase": {
+      "singular": "point",
+      "plural": "points",
+      "none": "no point"
+    }
+  },
+  "coin": {
+    "uppercase": {
+      "singular": "Coin",
+      "plural": "Coins",
+      "none": "no Coin"
+    },
+    "lowercase": {
+      "singular": "coin",
+      "plural": "coins",
+      "none": "no coin"
+    }
+  },
+  "chest": {
+    "uppercase": {
+      "singular": "Chest",
+      "plural": "Chests",
+      "none": "no Chest"
+    },
+    "lowercase": {
+      "singular": "chest",
+      "plural": "chests",
+      "none": "no chest"
+    }
+  },
+  "kill": {
+    "uppercase": {
+      "singular": "Kill",
+      "plural": "Kills",
+      "none": "no Kill"
+    },
+    "lowercase": {
+      "singular": "kill",
+      "plural": "kills",
+      "none": "no kill"
+    }
+  },
+  "death": {
+    "uppercase": {
+      "singular": "Death",
+      "plural": "Deaths",
+      "none": "no Deaths"
+    },
+    "lowercase": {
+      "singular": "death",
+      "plural": "deaths",
+      "none": "no death"
+    }
+  }
+}
