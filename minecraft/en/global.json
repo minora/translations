@@ -1,4 +1,14 @@
 {
+  "name": {
+    "short": {
+      "bold": "MINORA",
+      "normal": "Minora"
+    },
+    "full": {
+      "bold": "MINORA NETWORK",
+      "normal": "Minora Network"
+    }
+  },
   "elements": {
     "points": {
       "key": "one point",
