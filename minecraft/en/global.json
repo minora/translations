@@ -1,0 +1,14 @@
+{
+  "elements": {
+    "points": {
+      "key": "one point",
+      "key_plural": "__count__ points",
+      "key_none": "no point"
+    },
+    "coins": {
+      "key": "one coin",
+      "key_plural": "__count__ coins",
+      "key_none": "no coin"
+    }
+  }
+}
