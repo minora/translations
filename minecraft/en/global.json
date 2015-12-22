@@ -9,13 +9,13 @@
       "normal": "Minora Network"
     }
   },
-  "elements": {
-    "points": {
+  "element": {
+    "point": {
       "key": "one point",
       "key_plural": "__count__ points",
       "key_none": "no point"
     },
-    "coins": {
+    "coin": {
       "key": "one coin",
       "key_plural": "__count__ coins",
       "key_none": "no coin"
