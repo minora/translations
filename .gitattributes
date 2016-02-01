@@ -1,0 +1,22 @@
+* text=auto
+
+*.js text eol=lf
+*.JS text eol=lf
+*.json text eol=lf
+*.JSON text eol=lf
+*.yml text eol=lf
+*.YML text eol=lf
+*.scss text eol=lf
+*.SCSS text eol=lf
+*.css text eol=lf
+*.CSS text eol=lf
+*.hbs text eol=lf
+*.HBS text eol=lf
+*.html text eol=lf
+*.HTML text eol=lf
+*.md text eol=lf
+*.MD text eol=lf
+*.conf text eol=lf
+*.CONF text eol=lf
+*.list text eol=lf
+*.LIST text eol=lf
