@@ -1,6 +1,6 @@
-# <img alt="Translations Logo" src="https://img.minora.io/banner/github/translations.png" />
+# ![Minora Translations Logo](https://assets.minora.io/oss/translations.svg)
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/minora/translations?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/minora/translations)
 
 ## Contributing
 
@@ -24,4 +24,4 @@ In order to get your pull requests accepted, please sign: **[Minora CLA](https:/
 
 ### License
 
-Copyright (c) 2013-2015 Minora Network and / or its [contributors](#contributors). All rights reserved.
+Copyright (c) 2013-2016 Minora Network and / or its [contributors](#contributors). All rights reserved.
